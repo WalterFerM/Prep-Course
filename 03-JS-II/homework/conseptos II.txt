@@ -1,0 +1,9 @@
+* `for`:
+crea un bucle usado para tarreas repetitivas y para recorrer arreglos, 
+declara la variable indica el final y suma un paso para nuevamente seguir el bucle.
+
+
+* `&&`, `||`, `!`: Operadores Logicos.
+&& = Y , comple las condiciones concatenadas .
+|| = O or cumple una de las condiciones concatenadas.
+! = negacion, en boleano invierte los estados.

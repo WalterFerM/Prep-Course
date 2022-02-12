@@ -1,0 +1,21 @@
+Variables: 
+variables son espacios reservados en memoria o contenedores para 
+almancenar valores, se declara usando var o let, (se reocomienda uso de let)
+
+Strings: 
+son areglos compuestos de letras o secuencia de texto, se deben 
+poder destro de '' siempre.
+
+Funciones (argumentos, return):  
+nos sirven para reutilizar funcionalidades 
+que vamos a necesitar nuevamnte sin la necesidad de escribir todo el codigo.
+argumentos: pequeños instrucciones para desarrolar la tarea.
+return: regresa el resultado de la tarea completa o el resultado.
+
+Declaraciones if: 
+la declaracion if nos sirve para valorar un dato y regresa un booleano, podemos 
+comparar distintos tipos de datos pero el resultado siempre sera un booleano
+
+Valores booleanos (true, false): dos estados contrarios usados para valorar
+distintos tipos de datos, obedecen a una programacion particular y tambien, 
+tienen la posibilidad de oprarse a si mismos.

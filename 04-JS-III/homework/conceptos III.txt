@@ -1,0 +1,2 @@
+Arrays:
+un arreglo es un a secuencia de datos almacenados en un contenedor [] puede almacenar numeros, strings, booleanos. 
